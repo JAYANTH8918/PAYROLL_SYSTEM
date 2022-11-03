@@ -11,6 +11,7 @@ $python3 PMS.py
 
 # ScreenShot of Payroll System
 
-![Alt text](https://raw.githubusercontent.com/niraj007m/payrollsystem/master/pms.png "Payroll System")
+![Alt text](https://raw.githubusercontent.com/JAYANTH8918/PAYROLL_SYSTEM/master/pms.png "Payroll System")
+# https://github.com/JAYANTH8918/PAYROLL_SYSTEM
 
 Anyone can use this code to implement it on your own system by considering some common sense. 
